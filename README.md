@@ -1,1 +1,1 @@
-### 这是一个bootstrap案例
+### 这是一个基于bootstrap的三屏合一的案例
